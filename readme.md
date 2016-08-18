@@ -1,6 +1,6 @@
-# npms-lookup-cli [![Build Status](https://travis-ci.org/radiovisual/npms-lookup-cli.svg?branch=master)](https://travis-ci.org/radiovisual/npms-lookup-cli)
+# npms-lookup-cli
 
-> Lookup npmjs.org packages from the command line.
+> Search npm packages on npms.io from the command line.
 
 
 ## Install
