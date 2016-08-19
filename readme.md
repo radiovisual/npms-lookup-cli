@@ -2,6 +2,7 @@
 
 > Search npm packages on npms.io from the command line.
 
+Simply supply the package name on the command line, and npms-lookup-cli will searchfor the package name you specify on [npms.io](https://npms.io/).
 
 ## Install
 
@@ -25,7 +26,7 @@ $ npms --help
 
 ## Example
 
-Look up the [`object-assign`](https://www.npmjs.com/package/object-assign) package on npms.io from the command line:
+Look up the [`object-assign`](https://npms.io/search?term=object-assign) package on npms.io from the command line:
 
 ```
 $ npms object-assign
